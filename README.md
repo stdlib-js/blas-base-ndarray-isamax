@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isamax from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-ndarray-isamax@esm/index.mjs';
+import isamax from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-ndarray-isamax@v0.0.0-esm/index.mjs';
 ```
 
 #### isamax( arrays )
@@ -86,7 +86,7 @@ The function has the following parameters:
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-discrete-uniform@esm/index.mjs';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@esm/index.mjs';
-import isamax from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-ndarray-isamax@esm/index.mjs';
+import isamax from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-ndarray-isamax@v0.0.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
